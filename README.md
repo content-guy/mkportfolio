@@ -1,6 +1,6 @@
 # Techical Writing Portfolio
 
-## Description
+## Hello Description
 
 Welcome to my GitHub! I originally built this portfolio as a homework assignment for the Columbia University Engineering Full-Stack Boot Camp (October 2020-April 2021). I've been a senior technical writer at Amazon (Devices & Services – Alexa) for 2 years, and I've updated this site to highlight some of that more recent work.
 
